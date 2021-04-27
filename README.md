@@ -3,3 +3,5 @@
 CLA-test-lite
 
 See: <https://github.com/marketplace/actions/cla-assistant-lite>
+
+Testing PR mechanism
