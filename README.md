@@ -1,6 +1,6 @@
 # CLA-test-lite
 
-CLA-test-lite
+This is a test repository to test CLA assistant.
 
 ## Users need to sign the CLA first
 
