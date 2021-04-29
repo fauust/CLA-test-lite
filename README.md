@@ -7,3 +7,5 @@ This is a test repository to test CLA assistant.
 Read the [MariaDB CLA](MariaDBCLA.md).
 
 See: <https://github.com/marketplace/actions/cla-assistant-lite>
+
+Testing PR mechanism
